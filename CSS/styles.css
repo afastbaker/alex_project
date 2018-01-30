@@ -1,3 +1,4 @@
+
 <h1 {
   font-size: 1.5em
   font-weight: bold;
@@ -5,3 +6,10 @@
 }
 h1, h2, h3 {font-weight: bold; color : green;}
 #copyright {color: gray; font-style: italic; text-align: :center}
+
+.jumbotron {
+  background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg);
+  background-size: cover;
+  color: black;
+  object-fit:
+}
